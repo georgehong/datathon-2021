@@ -1,0 +1,149 @@
+q001 '1. How would you rate the overall economic condition of our country today?'
+q002 '2. How would you describe the change in the economic condition of our country over the past five years?'
+q003 '3. What do you think will be the state of our country's economic condition five years from now?'
+q004 '4. As for your own family, how do you rate your economic situation today?'
+q005 '5. How would you compare the current economic condition of your family with what it was five years ago?'
+q006 '6. What do you think the economic situation of your family will be five years from now?'
+q007 '7. How much trust do you have in the courts?'
+q008 '8. How much trust do you have in the national government?'
+q009 '9. How much trust do you have in political parties?'
+q010 '10. How much trust do you have in Parliament?'
+q011 '11. How much trust do you have in civil service?'
+q012 '12. How much trust do you have in the military?'
+q013 '13. How much trust do you have in the police?'*
+q014 '14. How much trust do you have in local government?'
+q015 '15. How much trust do you have in newspapers?'*
+q016 '16. How much trust do you have in television?'
+q017 '17. How much trust do you have in the election commission?'*
+q018 '18. How much trust do you have in non-governmental organizations?'*
+q022 '22. How frequently do you participate?'
+q023 '23. How often do you discuss politics?'
+q024 '24. General speaking, would you say that ��Most people can be trusted�� or ��you can��t be too careful in dealing with them��?
+q025 '25. I have enough friends and connections so that I can get help if I need it'
+q026 '26. I have some friends with influence, so I don't have to worry too much if I get into a tight spot'*
+q027 '27. Have you participated in last election?'
+q028 '28. Which party did you vote for?'*
+q029 '29. Did you attend a campaign meeting or rally?'
+q030 '30. Did you try to persuade others to vote for a certain candidate or party?'
+q031 '31. Did you do anything else to help or show your support for a party or candidate running in the election?'*
+q032 '32. Asked to vote for a particular candidate?_FAMILY MEMBER/RELATIVE'*
+q033 '33. Asked following personally ask you to vote for a particular candidate?_SENIORS IN A CLAN OR EXTENDED FAMILY'*
+q034 '34. Asked to vote for a particular candidate?_NEIGHBOR/FRIEND'*
+q035 '35. Asked to vote for a particular candidate?_COMMUNITY LEADERS'*
+q036 '36. Asked to vote for a particular candidate?_SUPERIOR AT WORK/SCHOOL'*
+q037 '37. Asked to vote for a particular candidate?_OWNERS OF THE FIRM/UNIT THAT YOU WORK FOR'**
+q038 '38. Asked to vote for a particularcandidate?_MEMBER/OFFICIAL OF ORGANIZATION THAT YOU BELONG TO'*
+q039 '39. Asked to vote for a particular candidate?_GOVERNMENT OFFICIAL WHOM YOU KNOW PERSONALLY'**
+q040 '40. Asked to vote for a particular candidate?_GOVERNMENT OFFICIAL WHOM YOU DON'T KNOW'**
+q041 '41. Asked to vote for a particular candidate?_CANDIDATE/PARTY ACTIVIST WHOM YOU KNOW PERSONALLY'**
+q042 '42. Asked to vote for a particular candidate?_CANDIDATE/PARTY ACTIVIST WHOM YOU DONT KNOW'*
+q043 '43. Asked to vote for a particular candidate?_OTHERS'*
+q044 '44. Influential_FAMILY MEMBER/RELATIVE'**
+q045 '45. Influential_SENIORS IN A CLAN OR EXTENDED FAMILY'**
+q046 '46. Influential_NEIGHBOR/FRIEND'**
+q047 '47. Influential_COMMUNITY LEADERS'**
+q048 '48. Influential_SUPERIOR AT WORK/SCHOOL'**
+q049 '49. Influential_OWNERS OF THE FIRM/UNIT THAT YOU WORK FOR'**
+q050 '50. Influential_MEMBER/OFFICIAL OF ORGANIZATION THAT YOU BELONG TO'**
+q051 '51. Influential_GOVERNMENT OFFICIAL WHOM YOU KNOW PERSONALLY'**
+q052 '52. Influential_GOVERNMENT OFFICIAL WHOM YOU DON'T KNOW'**
+q053 '53. Influential_CANDIDATE/PARTY ACTIVIST WHOM YOU KNOW PERSONALLY'**
+q054 '54. Influential_CANDIDATE/PARTY ACTIVIST WHOM YOU DON'T KNOW'**
+q055 '55. Influential_OTHERS'**
+q056 '56. How interested would you say you are interested in politics?'
+q057 '57. How often do you follow news about politics?'*
+q057a '57a. How often do you follow politics in the news on newspaper, television, radio? '*
+q058 '58. How often do you follow news about politics in the daily newspaper?'*
+q059 '59. How often do you follow news about politics on television?'*
+q060 '60. How often do you follow news about politics on the radio?'*
+q061 '61. How much impact do you feel government policies have on your daily life?'
+q062 '62. party feel closest to'*
+q063 '63. How close do you feel to (answer in Q62)? Is it VERY CLOSE, SOMEWHAT CLOSE, or JUST A LITTLE CLOSE?'*
+q064 '64. Even if parents' demands are unreasonable, children still should do what they ask?'
+q065 '65. When hiring someone, even if a stranger is more qualified, the opportunity should still be given to relatives and friend'
+q066 '66. When one has a conflict with a neighbor, the best way to deal with it is to accommodate the other person?'
+q067 '67. Wealth and poverty, success and failure are all determined by fate?'
+q068 '68. A person should not insist on his own opinion if his co-workers disagree with him?'
+q069 '69. For the sake of the family, the individual should put his personal interests second?'
+q070 '70. A man will lose face if he works under a female supervisor?'
+q071 '71. If there is a quarrel, we should ask an elder to resolve the dispute?'
+q072 '72. When a mother-in-law and a daughter-in-law come into conflict, even if the mother-in-law is in the wrong, the husband should still persuade his wife to obey his mother.'*
+q073 '73. Contacted any government official to express your opinions?'
+q074 '74. Contacted officials to express your opinions at higher level?'*
+q075 '75. contacted elected legislative representatives at any level?'
+q076 '76. Contacted political parties or other political organizations?'
+q077 '77. Contacted non-government/civil society organizations?'**
+q078 '78. Contacted media to comment on something?'
+q079 '79. Demonstrated, striken, or sat-in for something?'
+q080 '80. Contacted other people?'***
+q081 '81. Did you do this alone or with others?_contacted government official'*
+q082 '82. Did you do this alone or with others?_contacted officials at higher level'**
+q083 '83. Did you do this alone or with others?_contacted elected legislative representatives at any level'*
+q084 '84. Did you do this alone or with others?_contacted political parties or other political organizations'*
+q085 '85. Did you do this alone or with others?_ contacted non-government/civil society organizations'+
+q086 '86. Did you do this alone or with others?_contacted media'*
+q087 '87. Did you do this alone or with others?_demonstration, strike, sit-in'+
+q088 '88. Did you do this alone or with others?_contacted other people'++
+q089 '89. Gift or dinner_contacted government'+++
+q090 '90. Gift or dinner_contacted officials at highter level'#
+q091 '91. Gift or dinner_contacted elected legislative representatives'+++
+q092 '92. Gift or dinner_contacted political parties or other political organizations'+++
+q093 '93. Gift or dinner_contacted non-goverment/civil society organizations'++
+q094 '94. Gift or dinner_contacted media'+++
+q095 '95. Gift or dinner_demonstration, strike, sit-in'+++
+q096 '96. Gift or dinner_contacted other people'++
+q097_1 '97.1 MEANING OF DEMOCRACY FIRST'
+q097_2 '97.2 MEANING OF DEMOCRACY SECOND'
+q097_3 '97.3 MEANING OF DEMOCRACY THIRD'
+q098 '98. Satisfaction with the way democracy works in our country?'
+q099 '99. Where would you place our country on this scale during the period of [name of the most recent government under authoritarian rule]? '
+q100 '100. Where would you place our country under the present government?'
+q101 '101. To what extent would you want our country to be democratic now?'
+q102 '102. Where do you expect our country to be in five years?'
+q103 '103. Do you think democracy is suitable for our country?'
+q104 '104. How satisfied or dissatisfied are you with the current government?'*
+q105 '105. Everyone is free to say what they think- is better than before?'
+q106 '106. Everyone is treated equally by the government- is better than before?'
+q107 '107. People like me can have an influence on government- is better than before?'
+q108 '108. Corruption in politics and government is under control- is better than before?'
+q109 '109. The gap between the rich and the poor have narrowed- is better than before?'*
+q110 '110. Preventing crime and maintaining order- is better than before?'*
+q111 '111. Economic development- is better than before?'*
+q112 '112. Judges and courts are free from political interference- is better than before?'
+q113 '113. You can join any organization you like- is better than before?'
+q114 '114. How widespread corruption in your local/municipal government?'
+q115 '115. How widespread corruption in the national government?'*
+q116 '116. anyone you know personally witnessed an act of corruption?'
+q117 '117. Which comes closest to your own opinion?'
+q118 '118. Which comes closer to your own view?'
+q119 '119. choose between democracy and economic development?'
+q120 '120. Which comes closer to your own view?'*
+q121 '121. We should get rid of parliament and elections and have a strong leader decide things'*
+q122 '122. No opposition party should be allowed to compete for power'*
+q123 '123. The military should come in to govern the country'
+q124 '124. We should get rid of parliament and elections and have the experts decide everything'
+q125 '125. It is ok for the government to disregard the law in order to deal with the situation, when the country is facing a difficult situation'*
+q126 '126. I have the ability to participate in politics'
+q127 '127. Politics and government seems so complicated that a person like me can't really understand what is going on'
+q128 '128. The nation is run by a powerful few and ordinary citizens cannot do much about it'
+q129 '129. People like me don't have any influence over what the government does'
+q130 '130. Our form of government is still the best for us'
+q131 '131. You can generally trust the people who run our government to do what is right'
+q132 '132. People with little or no education should have as much say in politics as highly-educated people'
+q133 '133. Government leaders are like the head of a family; we should all follow their decisions'
+q134 '134. The government should decide whether certain ideas should be allowed to be discussed in society'
+q135 '135. Harmony of the community will be disrupted if people organize lots of groups'
+q136 '136. When judges decide important cases, they should accept the view of the executive branch'
+q137 '137. If the government is constantly checked by the legislature, it cannot possibly accomplish great things'
+q138 '138. If we have political leaders who are morally upright, we can let them decide everything'
+q139 '139. If people have too many different ways of thinking, society will be chaotic'
+q140 '140. The government should maintain ownership of major state-owned enterprises'
+q141 '141. The national government should have more authority over local decisions than it does now'
+q142 '142. Our country should defend our way of life instead of becoming more and more like other countries'
+q143 '143. For the sake of the national community/society, the individual should be prepared to sacrifice his personal interest'
+q144 '144. The state is like a big machine and the individual is but a small cog, with no independent status'*
+q145  '145. The most important thing for a political leader is to accomplish his goals even if he has to ignore the established proc'
+q146  '146. If a political leader really believes in his position, he should refuse to compromise regardless of how many people disa'
+q147  '147. A political leader should tolerate the views of those who challenge his political ideals'*
+q147a '147a. A political leader should not tolerate the views of those who challenge his political ideals. [Note to Interviewer: ��tolerate�� means allowing them to talk and listening to what they have to say] '**
+q148  '148. As long as a political leader enjoys majority support, he should implement his own agenda and disregard the view of the minority'
